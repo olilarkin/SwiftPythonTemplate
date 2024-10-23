@@ -1,0 +1,3 @@
+These files were obtained from https://github.com/beeware/Python-Apple-support/releases/download/3.11-b5/Python-3.11-macOS-support.b5.tar.gz
+
+I added a modulemap file to make the Python headers available to swift
